@@ -16,6 +16,24 @@ This project demonstrates how to ingest documents, generate embeddings, store th
 - 🔒 Runs locally with no external LLM dependency
 
 ---
+## 📂 Folder Structure
+
+```
+n8n-rag-automation-ollama-pinecone/
+│
+├── workflows/
+│   ├── file-ingestion-pipeline.json
+│   └── rag-chat-automation.json
+│
+├── screenshots/
+│   ├── file-ingestion-workflow.png
+│   └── rag-chat-workflow.png
+│
+├── .env.example
+├── .gitignore
+└── README.md
+```
+---
 
 ## 🏗️ Architecture Overview
 
