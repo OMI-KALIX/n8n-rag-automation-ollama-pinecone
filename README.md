@@ -16,6 +16,7 @@ This project demonstrates how to ingest documents, generate embeddings, store th
 - 🔒 Runs locally with no external LLM dependency
 
 ---
+
 ## 📂 Folder Structure
 
 ```
@@ -50,6 +51,9 @@ n8n-rag-automation-ollama-pinecone/
 - Context-aware responses using Llama 3.2
 
 ---
+
+### 🖼️ Automation Workflow
+![Workflow Screenshot](screenshots/workflow.png)
 
 ## 🧠 Models Used
 
