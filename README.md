@@ -22,8 +22,7 @@ This project demonstrates how to ingest documents, generate embeddings, store th
 n8n-rag-automation-ollama-pinecone/
 │
 ├── workflows/
-│   ├── file-ingestion-pipeline.json
-│   └── rag-chat-automation.json
+│   ├── file-ingestion-pipeline_rag-chat-automation.json
 │
 ├── screenshots/
 │   ├── file-ingestion-workflow.png
